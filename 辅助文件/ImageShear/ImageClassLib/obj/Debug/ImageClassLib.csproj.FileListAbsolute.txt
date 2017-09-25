@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.pdb
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageClassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.pdb
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.pdb
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageClassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.pdb
+C:\Users\Administrator\Downloads\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.dll
+C:\Users\Administrator\Downloads\ImageShear\ImageClassLib\bin\Debug\ImageClassLib.pdb
+C:\Users\Administrator\Downloads\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.dll
+C:\Users\Administrator\Downloads\ImageShear\ImageClassLib\obj\Debug\ImageClassLib.pdb

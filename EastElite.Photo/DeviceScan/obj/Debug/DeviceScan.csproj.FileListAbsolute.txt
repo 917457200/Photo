@@ -1,0 +1,14 @@
+E:\项目\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.dll.config
+E:\项目\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.dll
+E:\项目\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.pdb
+E:\项目\EastElite.Photo\DeviceScan\obj\Debug\DeviceScan.dll
+E:\项目\EastElite.Photo\DeviceScan\obj\Debug\DeviceScan.pdb
+E:\项目\EastElite.Photo\EastElite.Photos\bin\Debug\DeviceScan.dll.config
+E:\项目\EastElite.Photo\EastElite.Photos\bin\Debug\DeviceScan.dll
+E:\项目\EastElite.Photo\EastElite.Photos\bin\Debug\DeviceScan.pdb
+E:\项目\EastElite.Photo\DeviceScan\obj\Debug\DeviceScan.csprojResolveAssemblyReference.cache
+E:\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.dll.config
+E:\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.dll
+E:\EastElite.Photo\DeviceScan\bin\Debug\DeviceScan.pdb
+E:\EastElite.Photo\DeviceScan\obj\Debug\DeviceScan.dll
+E:\EastElite.Photo\DeviceScan\obj\Debug\DeviceScan.pdb

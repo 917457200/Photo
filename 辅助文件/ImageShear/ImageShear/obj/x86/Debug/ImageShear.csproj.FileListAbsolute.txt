@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\bin\Debug\ImageShear.exe
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\bin\Debug\ImageShear.pdb
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form1.resources
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.exe
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.pdb
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\bin\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\bin\Debug\ImageClassLib.pdb
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.frmScreen.resources
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form2.resources
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form3.resources
+C:\Documents and Settings\Administrator\桌面\图片剪切\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form4.resources
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\ImageShear.exe
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\ImageShear.pdb
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\bin\Debug\ImageShear.exe
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\bin\Debug\ImageShear.pdb
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\bin\Debug\ImageClassLib.dll
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\bin\Debug\ImageClassLib.pdb
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form4.resources
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ImageShear\ImageShear\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.exe
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.pdb
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\bin\Debug\ImageShear.exe
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\bin\Debug\ImageShear.pdb
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\bin\Debug\ImageClassLib.dll
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\bin\Debug\ImageClassLib.pdb
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Form4.resources
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ImageShear\ImageShear\obj\x86\Debug\ImageShear.csproj.GenerateResource.Cache

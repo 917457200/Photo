@@ -1,0 +1,10 @@
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\Demo.Form1.resources
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\MyProject\ClassLibrary\CommonUtility\Demo\bin\Debug\Demo.exe
+E:\MyProject\ClassLibrary\CommonUtility\Demo\bin\Debug\Demo.pdb
+E:\MyProject\ClassLibrary\CommonUtility\Demo\bin\Debug\Common.dll
+E:\MyProject\ClassLibrary\CommonUtility\Demo\bin\Debug\Common.pdb
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\Demo.exe
+E:\MyProject\ClassLibrary\CommonUtility\Demo\obj\Debug\Demo.pdb
